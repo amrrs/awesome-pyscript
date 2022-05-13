@@ -10,6 +10,7 @@ List of interesting Pyscript Projects
 ### Projects
 
 * Pyscript inside Wordpress - https://twitter.com/TechnoCannon/status/1521692114593017856
+* PyScript Scikit-learn Model Training - https://github.com/stiebels/pyscript-sklearn
 
 
 ### Extensions
